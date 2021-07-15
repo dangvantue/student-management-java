@@ -1,0 +1,4 @@
+id: st01 name: kevin birthday: Mon Jan 20 00:04:00 ICT 2020 score: 6.7
+id: st02 name: mary birthday: Sat Jan 20 00:03:00 ICT 2018 score: 8.9
+id: st03 name: teo birthday: Sun Jan 20 00:11:00 ICT 2019 score: 5.4
+id: st01 name: ti birthday: Wed Jan 20 00:10:00 ICT 2021 score: 7.6

@@ -1,0 +1,2 @@
+id: st01 name: kevin birthday: Mon Jan 20 00:04:00 ICT 2020 score: 6.7
+id: st01 name: ti birthday: Wed Jan 20 00:10:00 ICT 2021 score: 7.6
